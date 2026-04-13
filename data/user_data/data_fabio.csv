@@ -1,0 +1,29 @@
+ID,Parent,Label,XP,Derniere_Activite
+GLO,,🌐Global,0,2026-04-05
+🏃‍♀️‍➡️SP,GLO,🏃‍♀️‍➡️Sport,0,
+PRO,GLO,Programmation,0,
+PYT,PRO,Python,0,
+LOG,PYT,Logique/Algorithmique,1200,2026-04-05
+SETTING_DIFF,META,Normal,0,
+SYN,PYT,Syntaxe,800,2026-04-05
+BIB,PYT,Bibliothèques,700,2026-04-05
+IA,PYT,IA,800,2026-04-05
+MAN,PYT,Manipulation de Données,700,2026-04-05
+UI/,PYT,UI/UX,1000,2026-04-05
+🫀CA,🏃‍♀️‍➡️SP,🫀Cardio,0,
+VMA,FRA,VMA,200,2026-04-12
+SEU,FRA,Seuil,0,
+FRA,🫀CA,Fractionné,0,
+ANA,FRA,Anaérobie,0,
+💪MU,🏃‍♀️‍➡️SP,💪Musculation,0,
+FOR,💪MU,Force,50,2026-04-08
+HYP,💪MU,Hypertrophie,320,2026-04-08
+MUS,💪MU,Muscu Fonctionnelle,100,2026-04-11
+END,💪MU,Endurance de Force,100,2026-04-07
+📼VI,GLO,📼Vidéo,0,
+MON,📼VI,Montage,0,
+MOT,📼VI,Motion Design,500,2026-04-11
+NAR,📼VI,Écriture,200,2026-04-06
+ÉLO,📼VI,Éloquence,0,
+GRA,📼VI,Graphisme,150,2026-04-09
+🗣️S,GLO,🗣️Social,0,
